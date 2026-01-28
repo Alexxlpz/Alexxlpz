@@ -5,7 +5,7 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexxlpz&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Alexxlpz&theme=radical&hide_border=true)
@@ -21,7 +21,7 @@ Desarrollador apasionado por la tecnología y el código limpio.
 ---
 
 <div align="center">
-  
+
 💻 Programando el futuro, un commit a la vez 🚀
 
 </div>
