@@ -12,7 +12,7 @@ Alejandro López Ortega</a></h1>
 
 - 🌱 learning more technologies and never stop creating new ideas.
 
-- 🤝 I’m finishing my software engineering degree right now.
+- 🤝 I’m finishing software engineering degree right now.
 
 - 💪🏼 I’m currently learning React native && Deeplearning.
 
@@ -20,7 +20,7 @@ Alejandro López Ortega</a></h1>
 
 - 📫 How to reach me **alexlopezortega20042@gmail.com**
 
-<!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
+<!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 <br/>
 <hr>
 
