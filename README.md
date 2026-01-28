@@ -22,7 +22,7 @@ Alejandro López Ortega</a></h1>
 
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 <br/>
-<hr>
+<br clear="right"> <hr>
 
 ## Stats
  
@@ -30,7 +30,7 @@ Alejandro López Ortega</a></h1>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alexxlpz&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-<hr>
+<br clear="right"> <hr>
 
 ## My Skills Include
 
@@ -83,7 +83,8 @@ Alejandro López Ortega</a></h1>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
 </span>
 
-<hr>
+<br clear="right"> <hr>
+
 <p align="center">
    <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
    <br>
